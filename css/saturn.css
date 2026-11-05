@@ -1,6 +1,8 @@
 /* ==========================================================
    saturn.css - Saturn theme: elegant gold and cream
    ========================================================== */
+
+/* Theme colors and fonts for this planet (used by base.css) */
 :root {
     --bg: #14100a;
     /* a faint "ring" ellipse glowing behind the page */
