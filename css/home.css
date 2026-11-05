@@ -1,6 +1,8 @@
 /* ==========================================================
    home.css - Homepage theme: deep space with twinkling stars
    ========================================================== */
+
+/* Theme colors and fonts for this planet (used by base.css) */
 :root {
     --bg: #03040c;
     /* layered radial gradients = a nebula glow behind the stars */
