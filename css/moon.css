@@ -1,6 +1,8 @@
 /* ==========================================================
    moon.css - Moon theme: silver and gray, mission-log font
    ========================================================== */
+
+/* Theme colors and fonts for this planet (used by base.css) */
 :root {
     --bg: #0d0e12;
     /* soft "craters" made from radial gradients */
