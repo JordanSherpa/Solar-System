@@ -3,9 +3,10 @@
    Mars's gravity is about 38% of Earth's, so your weight on
    Mars = your Earth weight x 0.38.
    ========================================================== */
-
+// Earth weight x 0.38 = Mars weight
 const MARS_GRAVITY = 0.38;
 
+// Grab the form, input box, unit dropdown, and result area from the page
 const form = document.getElementById("weightForm");
 const weightInput = document.getElementById("earthWeight");
 const unitSelect = document.getElementById("weightUnit");
@@ -23,9 +24,11 @@ form.addEventListener("submit", function (event) {
         return;
     }
 
+   // Work out the Mars weight and how much lighter you'd be
     const marsWeight = earthWeight * MARS_GRAVITY;
     const difference = earthWeight - marsWeight;
 
+   // Show the answer on the page
     result.innerHTML =
         "On Mars you would weigh <strong>" + marsWeight.toFixed(1) + " " + unit + "</strong>. " +
         "That's " + difference.toFixed(1) + " " + unit + " lighter, and you could jump about " +
