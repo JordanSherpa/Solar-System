@@ -8,6 +8,8 @@
    ========================================================== */
 
 /* ---------- Theme variables (default = deep space) ---------- */
+
+/* Theme colors and fonts for this planet (used by base.css) */
 :root {
     --bg: #05060f;              /* page background color            */
     --bg-image: none;           /* optional background gradient     */
