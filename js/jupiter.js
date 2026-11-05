@@ -4,6 +4,7 @@
    Arrow keys also move between tabs.
    ========================================================== */
 
+// All the moon tab buttons and their matching info panels
 const tabs = document.querySelectorAll(".tab");
 const panels = document.querySelectorAll(".tab-panel");
 
@@ -23,6 +24,7 @@ function selectTab(selectedTab) {
 }
 
 tabs.forEach(function (tab, index) {
+   // Clicking a tab opens that moon's panel
     tab.addEventListener("click", function () {
         selectTab(tab);
     });
