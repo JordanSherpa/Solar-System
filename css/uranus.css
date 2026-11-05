@@ -1,6 +1,8 @@
 /* ==========================================================
    uranus.css - Uranus theme: icy pale cyan, clean sans-serif
    ========================================================== */
+
+/* Theme colors and fonts for this planet (used by base.css) */
 :root {
     --bg: #04161b;
     --bg-image: linear-gradient(160deg, #0d3a44 0%, #072329 45%, #04161b 100%);
