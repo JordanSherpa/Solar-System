@@ -1,6 +1,8 @@
 /* ==========================================================
    mars.css - Mars theme: rusty reds and dusty desert tones
    ========================================================== */
+
+/* Theme colors and fonts for this planet (used by base.css) */
 :root {
     --bg: #3b1206;
     --bg-image: linear-gradient(180deg, #d9875a 0%, #a8431b 30%, #6b200b 70%, #3b1206 100%);
