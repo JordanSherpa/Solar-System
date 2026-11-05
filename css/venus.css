@@ -1,6 +1,8 @@
 /* ==========================================================
    venus.css - Venus theme: hazy sulfur yellows, elegant serif
    ========================================================== */
+
+/* Theme colors and fonts for this planet (used by base.css) */
 :root {
     --bg: #f4dc9b;
     --bg-image: linear-gradient(170deg, #fff4d2 0%, #f3d388 35%, #d9a24a 75%, #a8652a 100%);
