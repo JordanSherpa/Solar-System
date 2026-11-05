@@ -2,6 +2,8 @@
    earth.css - Earth theme: ocean blue and forest green.
    The .night class (added by earth.js) switches to night colors.
    ========================================================== */
+
+/* Theme colors and fonts for this planet (used by base.css) */
 :root {
     --heading-font: Georgia, "Times New Roman", serif;
     --body-font: Verdana, Geneva, sans-serif;
