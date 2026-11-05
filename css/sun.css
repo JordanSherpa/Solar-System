@@ -1,6 +1,8 @@
 /* ==========================================================
    sun.css - Sun theme: blazing orange, yellow and red
    ========================================================== */
+
+/* Theme colors and fonts for this planet (used by base.css) */
 :root {
     --bg: #1a0500;
     --bg-image: radial-gradient(circle at 50% -10%, #ff9d00 0%, #c43a00 30%, #3a0a00 65%, #1a0500 100%);
