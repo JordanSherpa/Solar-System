@@ -1,6 +1,8 @@
 /* ==========================================================
    jupiter.css - Jupiter theme: striped cloud bands
    ========================================================== */
+
+/* Theme colors and fonts for this planet (used by base.css) */
 :root {
     --bg: #3d2614;
     /* horizontal stripes like Jupiter's cloud belts */
