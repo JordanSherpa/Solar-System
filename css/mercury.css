@@ -2,6 +2,8 @@
    mercury.css - Mercury theme: metallic gray with solar heat.
    .night-side (added by mercury.js) switches to frozen colors.
    ========================================================== */
+
+/* Theme colors and fonts for this planet (used by base.css) */
 body {
     --bg: #2b2826;
     --bg-image: linear-gradient(135deg, #ff7a1a 0%, #8a3d12 18%, #3a3632 45%, #1f1d1b 100%);
